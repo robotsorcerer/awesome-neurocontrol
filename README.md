@@ -42,7 +42,7 @@ Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~olalekan.ogunmolu), 
 
 * [Parallel networks that learn to pronounce English text. Complex Systems](http://cs.union.edu/~rieffelj/classes/2011-12/csc320/readings/Sejnowski-speech-1987.pdf)
 	* Sejnowski, T. J., & Rosenberg, C. R. (1987). 
-	* Institution Affiliation: KU Leuven
+	* Institution Affiliation: Johns Hopkins University/Princeton University
 
 * [Learning representations by backpropagating errors](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf). 
 	* Rumelhart, D. E., & Hinton, G. E. (1986). 
