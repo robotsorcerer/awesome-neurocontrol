@@ -16,30 +16,34 @@ Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~olalekan.ogunmolu), 
 
 ## Papers and Codes
 
-* [ 3/2017: Optnet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443)
+* [Optnet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443)
 	* [Code](https://github.com/locuslab/optnet)
-	* Authors:  Brandon Amos and J. Zico Kolter
+	* Authors:  Brandon Amos and J. Zico Kolter. (3/2017).
 	* Institution Affiliation: CMU 
 
-* [3/2017: qpth: A fast and differentiable Quadratic Programming solver for PyTorch](https://github.com/locuslab/qpth)
+* [qpth: A fast and differentiable Quadratic Programming solver for PyTorch](https://github.com/locuslab/qpth)
 	* [Code](https://github.com/locuslab/qpth)
-	* Authors:  Brandon Amos and J. Zico Kolter 
+	* Authors:  Brandon Amos and J. Zico Kolter. (3/2017).
 	* Institution Affiliation: CMU
 
-* [3/2017: How hard is it to cross the room? - Training (Recurrent) Neural Networks to steer a UAV](https://arxiv.org/pdf/1702.07600.pdf)
-	* Authors: Klaas Kelchtermans and Tinne Tuytelaars 
+* [How hard is it to cross the room? - Training (Recurrent) Neural Networks to steer a UAV](https://arxiv.org/pdf/1702.07600.pdf)
+	* Authors: Klaas Kelchtermans and Tinne Tuytelaars. (3/2017).
 	* Institution Affiliation: KU Leuven
 
 ### Foundational Papers on Modern Machine Learning
 
 * [Approximation by Superpositions of a Sigmoidal Function. Approximation Theory and Its Applications](http://deeplearning.cs.cmu.edu/pdfs/Cybenko.pdf)
 	* Author: Cybenko, G. (1993). 
+	* Institution Affiliation: University of Illinois
 
 * [On the approximate realization of continuous mappings by neural networks.](http://www.sciencedirect.com/science/article/pii/0893608089900038)
 	* Author: Ken-Ichi Funahashi, 5/1988
+	* Institution Affiliation: CMU
 
 * [Parallel networks that learn to pronounce English text. Complex Systems](http://cs.union.edu/~rieffelj/classes/2011-12/csc320/readings/Sejnowski-speech-1987.pdf)
 	* Sejnowski, T. J., & Rosenberg, C. R. (1987). 
+	* Institution Affiliation: KU Leuven
 
 * [Learning representations by backpropagating errors](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf). 
 	* Rumelhart, D. E., & Hinton, G. E. (1986). 
+	* Institution Affiliation: UToronto
