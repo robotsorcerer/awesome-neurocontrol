@@ -16,19 +16,21 @@ Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~olalekan.ogunmolu), 
 
 ## Papers and Codes
 
-* [Optnet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443)
+* [ 3/2017: Optnet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/abs/1703.00443)
 	* [Code](https://github.com/locuslab/optnet)
-	* Authors:  Brandon Amos and J. Zico Kolter, 3/2017
+	* Authors:  Brandon Amos and J. Zico Kolter
 	* Institution Affiliation: CMU 
 
-* [qpth: A fast and differentiable Quadratic Programming solver for PyTorch](https://github.com/locuslab/qpth)
+* [3/2017: qpth: A fast and differentiable Quadratic Programming solver for PyTorch](https://github.com/locuslab/qpth)
 	* [Code](https://github.com/locuslab/qpth)
-	* Authors:  Brandon Amos and J. Zico Kolter, 3/2017
+	* Authors:  Brandon Amos and J. Zico Kolter 
 	* Institution Affiliation: CMU
 
-* [How hard is it to cross the room? - Training (Recurrent) Neural Networks to steer a UAV](https://arxiv.org/pdf/1702.07600.pdf)
-	* Authors: Klaas Kelchtermans and Tinne Tuytelaars, 3/2017
+* [3/2017: How hard is it to cross the room? - Training (Recurrent) Neural Networks to steer a UAV](https://arxiv.org/pdf/1702.07600.pdf)
+	* Authors: Klaas Kelchtermans and Tinne Tuytelaars 
 	* Institution Affiliation: KU Leuven
+
+### Foundational Papers on Modern Machine Learning
 
 * [Approximation by Superpositions of a Sigmoidal Function. Approximation Theory and Its Applications](http://deeplearning.cs.cmu.edu/pdfs/Cybenko.pdf)
 	* Author: Cybenko, G. (1993). 
