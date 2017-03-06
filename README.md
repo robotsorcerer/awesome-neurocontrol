@@ -13,8 +13,8 @@ Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~olalekan.ogunmolu), 
 #Table of Contents
 - [Papers and Codes](#papers-and-codes)
 	- [FeUdal Networks for Hierarchical Reinforcement Learning](#feudal-networks-for-hierarchical-reinforcement-learning)
-	- [Optnet: Differentiable Optimization as a Layer in Neural Networks](#optnet:-differentiable-optimization-as-a-layer-in-neural-networks)
-	- [qpth: A fast and differentiable Quadratic Programming solver for PyTorch](#qpth:-a-fast-and-differentiable-quadratic-programming-solver-for-pytorch)
+	- [Optnet: Differentiable Optimization as a Layer in Neural Networks](#optnet:differentiable-optimization-as-a-layer-in-neural-networks)
+	- [qpth: A fast and differentiable Quadratic Programming solver for PyTorch](#qpth:a-fast-and-differentiable-quadratic-programming-solver-for-pytorch)
 	- [How hard is it to cross the room? - Training (Recurrent) Neural Networks to steer a UAV](#how-hard-is-it-to-cross-the-room?---training-(recurrent)-neural-networks-to-steer-a-uav)
 
 - [Foundational Papers on Modern Machine Learning](#foundational-papers-on-modern-machine-learning)
