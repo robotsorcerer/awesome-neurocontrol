@@ -4,13 +4,7 @@ A curated list of resources dedicated to theory and applications of machine lear
 
 Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~opo140030), Bashir Jafari, [Nick Gans](https://www.utdallas.edu/~ngans), James Davidson
 
-<!-- ## Sharing
-+ [Share on Twitter](http://twitter.com/home?status=http://github.com/lakehanne%0AMachine-learning based Control)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=http://github.com/lakehanne%0AMachine-learning based Control)
-+ [Share on Google Plus](http://plus.google.com/share?url=http://github.com/lakehanne%0AMachine-learning based Control)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http://github.com/lakehanne%0AMachine-learning based Control=&source=) -->
-
-#Table of Contents
+## Table of Contents
 - [Papers and Codes](#papers-and-codes)
 	- [FeUdal Networks for Hierarchical Reinforcement Learning](#feudal-networks-for-hierarchical-reinforcement-learning)
 	- [Optnet: Differentiable Optimization as a Layer in Neural Networks](#optnet-differentiable-optimization-as-a-layer-in-neural-networks)
