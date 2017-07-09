@@ -2,7 +2,7 @@
 
 A curated list of resources dedicated to theory and applications of machine learning to Control Theory and Engineering (Emphasis on Large Scale Control and Deep Learning)
 
-Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~opo140030), Bashir Jafari, [Nick Gans](https://www.utdallas.edu/~ngans), James Davidson
+Maintainers - [Olalekan Ogunmolu](http://lakehanne.github.io/)
 
 ## Table of Contents
 - [Papers and Codes](#papers-and-codes)
