@@ -2,10 +2,13 @@
 
 A curated list of resources dedicated to theory and applications of machine learning to Control Theory and Engineering (Emphasis on Large Scale Control and Deep Learning)
 
-Maintainers - [Olalekan Ogunmolu](http://lakehanne.github.io/)
+* Maintainers 
+	* [Olalekan Ogunmolu](http://lakehanne.github.io/)
 
 ## Table of Contents
 - [Papers and Codes](#papers-and-codes)
+	- [Emergence of Locomotion Behaviours in Rich Environments](#parkour)
+	- [Input Convex Neural Networks](#input-cvx)
 	- [FeUdal Networks for Hierarchical Reinforcement Learning](#feudal-networks-for-hierarchical-reinforcement-learning)
 	- [Optnet: Differentiable Optimization as a Layer in Neural Networks](#optnet-differentiable-optimization-as-a-layer-in-neural-networks)
 	- [qpth: A fast and differentiable Quadratic Programming solver for PyTorch](#qpth-a-fast-and-differentiable-quadratic-programming-solver-for-pytorch)
@@ -22,6 +25,17 @@ Maintainers - [Olalekan Ogunmolu](http://lakehanne.github.io/)
 
 <a id="papers-and-codes"></a>
 ## Papers and Codes
+
+<a id="parkour"></a>
+* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf)
+	* Authors: Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne,
+		Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, David Silver
+	* Institution: DeepMind
+
+<a id="inpux-cvx"></a>
+* [Input Convex Neural Networks](https://arxiv.org/abs/1609.07152)
+	* Authors: Brandon Amos, J. Zico Kolter
+	* Institution: CMU
 
 <a id="feudal-networks-for-hierarchical-reinforcement-learning"></a>
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
