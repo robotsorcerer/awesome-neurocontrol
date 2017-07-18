@@ -7,6 +7,7 @@ A curated list of resources dedicated to theory and applications of machine lear
 
 ## Table of Contents
 - [Papers and Codes](#papers-and-codes)
+	- [ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](#ADAPT)
 	- [Emergence of Locomotion Behaviours in Rich Environments](#parkour)
 	- [Input Convex Neural Networks](#input-cvx)
 	- [FeUdal Networks for Hierarchical Reinforcement Learning](#feudal-networks-for-hierarchical-reinforcement-learning)
@@ -26,6 +27,10 @@ A curated list of resources dedicated to theory and applications of machine lear
 <a id="papers-and-codes"></a>
 ## Papers and Codes
 
+<a id="adapt"></a>
+* [ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)
+	* Authors: James Harrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone
+	* Institute: Stanford
 <a id="parkour"></a>
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf)
 	* Authors: Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne,
