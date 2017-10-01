@@ -2,7 +2,8 @@
 
 A curated list of resources dedicated to theory and applications of machine learning to Control Theory and Engineering (Emphasis on Large Scale Control and Deep Learning)
 
-Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~opo140030), Bashir Jafari, [Nick Gans](https://www.utdallas.edu/~ngans), James Davidson
+* Maintainers
+	* [Olalekan Ogunmolu](http://lakehanne.github.io/)
 
 ## Table of Contents
 - [Papers and Codes](#papers-and-codes)
@@ -74,6 +75,21 @@ Maintainers - [Olalekan Ogunmolu](https://ecs.utdallas.edu/~opo140030), Bashir J
  * 	[A Dynamical System Approach to Realtime Obstacle Avoidance](#http://lasa.epfl.ch/publications/uploadedFiles/Khansari_Billard_AR12.pdf)
 		* Authors: S.M. Khansari-Zadeh and A. Billard (2012),
 		* Journal: Autonomous Robots, vol. 32, num 4, p. 433-454.
+
+<a id="adapt"></a>
+* [ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)
+	* Authors: James Harrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone
+	* Institute: Stanford
+<a id="parkour"></a>
+* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf)
+	* Authors: Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne,
+		Yuval Tassa, Tom Erez, Ziyu Wang, Ali Eslami, Martin Riedmiller, David Silver
+	* Institution: DeepMind
+
+<a id="inpux-cvx"></a>
+* [Input Convex Neural Networks](https://arxiv.org/abs/1609.07152)
+	* Authors: Brandon Amos, J. Zico Kolter
+	* Institution: CMU
 
 <a id="feudal-networks-for-hierarchical-reinforcement-learning"></a>
 * [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
