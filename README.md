@@ -39,25 +39,25 @@ A curated list of resources dedicated to theory and applications of machine lear
 <a id="faustCont"></a>
 * [Continuous Action Reinforcement Learning for Control-Affine Systems
 	with Unknown Dynamics](http://cs.unm.edu/~afaust/afaustStochPlanIcra15.pdf)
-		* Aleksandra Faust
-		* Institution Affiliation: University of Minnesota
+	* Author: Aleksandra Faust
+	* Institution Affiliation: University of New Mexico
 
 <a id="prefbal"></a>
 * [Preference-balancing Motion Planning under Stochastic Disturbances](http://cs.unm.edu/~afaust/afaustStochPlanIcra15.pdf)
-		* Aleksandra Faust
-		* Institution Affiliation: University of Minnesota
+  * Author: Aleksandra Faust
+  * Institution Affiliation: University of New Mexico
 
 <a id="humanContact"></a>
  *	[Adaptive Human-Inspired Compliant Contact Primitives to Perform Surface-Surface Contact under Uncertainty](http://ijr.sagepub.com/content/early/2016/07/06/0278364916648389)
-		* Authors: S.M. Khansari-Zadeh, E. Klingbeil, and O. Khatib (2016)
-		* Institution: Stanford
-		* Journal: The International Journal of Robotics Research
+	* Authors: S.M. Khansari-Zadeh, E. Klingbeil, and O. Khatib (2016)
+	* Institution: Stanford
+	* Journal: The International Journal of Robotics Research
 
 <a id="motionGen"></a>
  *	[Learning Potential Functions from Human Demonstrations with Encapsulated Dynamic and Compliant Behaviors](http://link.springer.com/article/10.1007%2Fs10514-015-9528-y)
-		* Authors: S.M. Khansari-Zadeh and O. Khatib (2015)
-		* Institution: Stanford
-		* Journal: Autonomous Robots.
+  * Authors: S.M. Khansari-Zadeh and O. Khatib (2015)
+  * Institution: Stanford
+  * Journal: Autonomous Robots.
 
 <a id="seds"></a>
  *	[Learning Stable Non-Linear Dynamical Systems with Gaussian Mixture Models](http://infoscience.epfl.ch/record/166322/files/Khansari_Billard_TRO11_1.pdf)
@@ -67,19 +67,20 @@ A curated list of resources dedicated to theory and applications of machine lear
 
 <a id="clfdm"></a>
  *	[Learning Control Lyapunov Function to Ensure Stability of Dynamical System-based Robot Reaching Motions](http://lasa.epfl.ch/publications/uploadedFiles/Khansari_Billard_RAS2014.pdf)
-		* Institution: Stanford
-		* Authors: S.M. Khansari-Zadeh and A. Billard (2014),
-		* Journal: Robotics and Autonomous Systems, vol. 62, num 6, p. 752-765.
+	* Institution: Stanford
+	* Authors: S.M. Khansari-Zadeh and A. Billard (2014),
+	* Journal: Robotics and Autonomous Systems, vol. 62, num 6, p. 752-765.
 
 <a id="obstAvoid"></a>
  * 	[A Dynamical System Approach to Realtime Obstacle Avoidance](http://lasa.epfl.ch/publications/uploadedFiles/Khansari_Billard_AR12.pdf)
-		* Authors: S.M. Khansari-Zadeh and A. Billard (2012),
-		* Journal: Autonomous Robots, vol. 32, num 4, p. 433-454.
+	* Authors: S.M. Khansari-Zadeh and A. Billard (2012),
+	* Journal: Autonomous Robots, vol. 32, num 4, p. 433-454.
 
 <a id="adapt"></a>
 * [ADAPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)
 	* Authors: James Harrison, Animesh Garg, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone
 	* Institute: Stanford
+	
 <a id="parkour"></a>
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf)
 	* Authors: Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne,
